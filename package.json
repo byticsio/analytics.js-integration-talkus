@@ -1,0 +1,15 @@
+{
+  "name": "@segment/analytics.js-integration-talkus",
+  "description": "The Talkus analytics.js integration.",
+  "version": "0.0.1",
+  "keywords": [
+    "analytics.js",
+    "analytics.js-integration",
+    "segment",
+    "talkus"
+  ],
+  "main": "lib/index.js",
+  "dependencies": {
+    "@segment/analytics.js-integration": "^2.1.0"
+  }
+}
